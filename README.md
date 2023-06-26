@@ -1,0 +1,1 @@
+# gitleaks-pattern-v2

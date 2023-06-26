@@ -1,0 +1,2 @@
+PlanetScale API token :- pscale_tkn_prlkswr171ep.d3tatebuj.nrw7vyi1-
+Plaid Secret key :- plaid'|:piprvt9angyaq5cdx13m95vzkbnqd5

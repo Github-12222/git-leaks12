@@ -1,0 +1,2 @@
+OpenAI API Key :- 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;
+Okta Access Token :- okta-	za.q_-31l_x1ln'<=cswtq2rydwu0_zdys7ofj52zx8nfcagwthvt3fywio

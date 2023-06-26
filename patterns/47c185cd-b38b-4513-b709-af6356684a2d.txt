@@ -1,0 +1,2 @@
+Mailgun webhook signing key :- mailgun5r t-_ztn_zaa||: hg3161g1g85350d4ha8gf39bbh6ehdhb-5he72ed8-1e45ee1d
+Mailgun public validation key :- mailgundq16xnghr_-0wg-?=`==pubkey-1a7de681230feab9fbbd4fcc45c8fde1

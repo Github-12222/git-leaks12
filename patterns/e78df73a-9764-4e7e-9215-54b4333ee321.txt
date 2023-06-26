@@ -1,0 +1,2 @@
+Flutterwave Secret Key :- FLWSECK_TEST-95bffh31a29fea8cb8hdag34hbdff393-X
+Finicity Public Key :- FLWPUBK_TEST-57db0e07a79geg9b93f265f9f1f2hc05-X

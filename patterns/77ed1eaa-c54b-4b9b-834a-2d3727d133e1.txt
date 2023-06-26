@@ -1,0 +1,3 @@
+Sendbird Access ID :- sendbirdk6 -sigrli>`	
+= 57f4940b-3789-d90a-82b6-1799985dabd8
+Rubygem API token :- rubygems_ffa060a4145c966aa03cdd92b745d3ec9c896788d167187d

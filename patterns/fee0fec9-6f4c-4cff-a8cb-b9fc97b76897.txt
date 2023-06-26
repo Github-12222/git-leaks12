@@ -1,0 +1,2 @@
+Shopify shared secret :- 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
+Shopify private app access token :- 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

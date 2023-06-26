@@ -1,0 +1,3 @@
+Mailgun private API token :- mailgunfevjvo_7pu2=`
+key-e068d85ea91d291e25da72e34e55e35d`
+Mailchimp API key :- mailchimpo_q0xr9rg t =	=64eba7c3ca732ebe286059b4906dfd07-us20

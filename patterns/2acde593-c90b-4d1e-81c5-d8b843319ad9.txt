@@ -1,0 +1,2 @@
+RapidAPI Access Token :- rapidapileq27ux:	b8yz9ohntzt9iu9r484pzqe6g953_kksbv8d-5i0986kc546nf
+PyPI upload token :- pypi-AgEIcHlwaS5vcmcvHIbfdSTK5pDjUbCtHNCuzx-seOmEkYvQbG7TWN8MdBw3Vmyvn6nx2_wGnST5YwYYlE3OXdkach7

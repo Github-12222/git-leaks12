@@ -1,0 +1,2 @@
+GitLab Runner Registration Token :- GR134894156R34n73g6wE30mt2pPA
+GitLab Pipeline Trigger Token :- glptt-5abdc0fc2164ecd4e027d951ae3e0ece5713225e

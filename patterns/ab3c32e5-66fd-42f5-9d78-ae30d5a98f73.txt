@@ -1,0 +1,2 @@
+Sendinblue API token :- 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
+SendGrid API token :- SG.xsd_ckso_yz-5pujda=pu1x1kpvr4cayf6ou5pjow3r8ntu9ucefbnxx-cg9mm.30b

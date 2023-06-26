@@ -1,0 +1,2 @@
+Clojars API token :- CLOJARS_1tswwyib18agj8v3n0hr2fyh9ver81nuzfladjqzc2k3wvwrm6tc8dcepnxd
+Bittrex Secret Key :- bittrexxosx801aaoxv-c:=6u1iftxlsbs2lgvdtk3gl3843j7guoe5

@@ -1,0 +1,4 @@
+Finicity Client Secret :- finicity0	 |::=`
+ '5nh4d50uy4rqilkeevro'
+Finicity API token :- finicityco 4rime
+::="46db462a3722d73bfb8cca25fc8f6fc6

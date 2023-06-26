@@ -1,0 +1,2 @@
+SendGrid API token :- SG.xsd_ckso_yz-5pujda=pu1x1kpvr4cayf6ou5pjow3r8ntu9ucefbnxx-cg9mm.30b
+Sendbird Access Token :- sendbirdc_epnvwnls5ug	?='"2c747cd9e7b0c20e71a37f192b20dc9fd6b0e243|

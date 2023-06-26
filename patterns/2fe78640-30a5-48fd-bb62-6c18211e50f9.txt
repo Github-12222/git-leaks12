@@ -1,0 +1,2 @@
+Shopify private app access token :- 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
+Shopify custom access token :- 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

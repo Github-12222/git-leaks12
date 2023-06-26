@@ -1,0 +1,2 @@
+Adobe Client Secret :- p8e-9sddot9fyd2x5bf0wpwq1pnezhu230r2
+Adobe Client ID (OAuth Web) :- adobea6et' ::= dee193aa475fbbec37244d469e76149f

@@ -1,0 +1,2 @@
+Square Access Token :- sq0atp-DlU61SUTtlhN2yteB8Qyiw
+Snyk API token :- snykrdfdxkzjisk_wcy3x f8	||:`34bf9cf0-bd0f-7e86-f239-3912b35eb1be

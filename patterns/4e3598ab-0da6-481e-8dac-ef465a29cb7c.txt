@@ -1,0 +1,2 @@
+HashiCorp Terraform user/org API token :- 4eh5zay4onhb6h.atlasv1.wu0or3lnweg9epl_vxh-0=joqkhuoivbgvzt5g_y9k_94bpe7=pi=ley92bvf-2hn
+Grafana service account token :- glsa_mFjrPJWRhqsKySjkPnqFC21L7TckRG6B_107a8d5e'

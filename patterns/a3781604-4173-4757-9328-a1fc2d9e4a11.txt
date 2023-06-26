@@ -1,0 +1,2 @@
+Shopify custom access token :- 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
+Shopify access token :- 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

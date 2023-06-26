@@ -1,0 +1,2 @@
+Postman API token :- PMAK-dd659b3ea1c9c2d15722f70b-317bf3d2d67e695d9a509b8d5cb0e55073
+PlanetScale password :- pscale_pw_irgt5omu_crr9bpox_a2wjumu.llae84txu0z=x_9s

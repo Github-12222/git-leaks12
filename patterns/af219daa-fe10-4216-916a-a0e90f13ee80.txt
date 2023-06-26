@@ -1,0 +1,3 @@
+Finnhub Access Token :- finnhubos'|>==='6o23pgaw8stq1muocf8y
+Finicity Client Secret :- finicity0	 |::=`
+ '5nh4d50uy4rqilkeevro'

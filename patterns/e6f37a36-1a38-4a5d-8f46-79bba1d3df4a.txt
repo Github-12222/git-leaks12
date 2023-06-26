@@ -1,0 +1,2 @@
+Shopify access token :- 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
+Shippo API token :- shippo_test_0b25130f1a10e4015ab6137aed7219695d5b977f

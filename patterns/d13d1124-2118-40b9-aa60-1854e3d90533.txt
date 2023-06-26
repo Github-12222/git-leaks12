@@ -1,0 +1,2 @@
+PyPI upload token :- pypi-AgEIcHlwaS5vcmcvHIbfdSTK5pDjUbCtHNCuzx-seOmEkYvQbG7TWN8MdBw3Vmyvn6nx2_wGnST5YwYYlE3OXdkach7
+Pulumi API token :- pul-69ae069840583e8ec47b2d0bb6bf98da7b67eeb8

@@ -1,0 +1,3 @@
+Sidekiq Secret :- BUNDLE_GEMS__CONTRIBSYS__COMi0_lnsmxa63 =
+'"'`dae0db9a:bfb377b5
+Shopify shared secret :- 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

@@ -1,0 +1,2 @@
+Finicity Public Key :- FLWPUBK_TEST-57db0e07a79geg9b93f265f9f1f2hc05-X
+Flutterwave Encryption Key :- FLWSECK_TEST-d664e7ead95h

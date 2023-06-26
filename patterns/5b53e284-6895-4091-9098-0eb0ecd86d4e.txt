@@ -1,0 +1,3 @@
+Finicity API token :- finicityco 4rime
+::="46db462a3722d73bfb8cca25fc8f6fc6
+Fastly API key :- fastly4gkxs=d3c0fva9i9za6z2h9kikvuwd_wddkyaz

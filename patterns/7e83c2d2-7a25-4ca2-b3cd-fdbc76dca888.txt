@@ -1,0 +1,2 @@
+Plaid API Token :- plaidsv=>`access-sandbox-0a332226-7466-aa44-910b-09788d896936|
+OpenAI API Key :- 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;
